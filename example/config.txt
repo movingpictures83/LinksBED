@@ -1,0 +1,2 @@
+Prefix plugins/LinksBED/example/
+Plugin LinksBED inputfile B.bed outputfile output.html
